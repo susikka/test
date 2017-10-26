@@ -1,7 +1,5 @@
 # test
 Test repo
 
+some changes in test-branch
 
-susikka-changes
-
-some changes in master
